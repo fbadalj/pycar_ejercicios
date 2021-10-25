@@ -15,3 +15,4 @@ azul = (0, 0, 250)
 titulo = input("titulo del juego: ")
 main2(size, titulo, azul)
 
+
