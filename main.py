@@ -11,6 +11,7 @@ ancho =  int(input("ancho de la ventana: "))
 alto = int(input("alto de la venta: "))
 size[0] = ancho
 size[1] = alto
-azul = (0, 0, 255)
-titulo = input("titulo del simulador: ")
+azul = (0, 0, 250)
+titulo = input("titulo del juego: ")
 main2(size, titulo, azul)
+
